@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Betel 
-- 👀 I’m interested in health tech
+- 👋 Hi, I’m Betel (Bethel)
 - 🌱 I’m currently learning: Tech in health care and business while utilizing AI and ML
 - 💞️ I’m looking to collaborate on: Inspiring projects 
-- 📫 How to reach me: LinkeIn @betelbisrat 
 - ⚡ Fun fact: I love writing!
 
 <!---
